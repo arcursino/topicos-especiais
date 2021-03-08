@@ -1,10 +1,11 @@
-Tópicos Especiais - Prof Mineda
+# Tópicos Especiais - Prof Mineda
 
-- Caso escolha Docker
+- Caso escolha Gitpod
 
-iniciar > CMD > enter
+Subir o repositório no github
 
-```
-docker-compose up -d
+No navegador:
 
-```
+gitpod.io/#/https://github.com/arcursino/topicos-especiais
+
+já fara o pull e iniciar o workspace no gitpod
