@@ -1,8 +1,10 @@
 Tópicos Especiais - Prof Mineda
 
-No cmd
+- Caso escolha Docker
 
-´´´
+iniciar > CMD > enter
+
+```
 docker-compose up -d
 
-´´´
+```
